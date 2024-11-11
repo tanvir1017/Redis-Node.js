@@ -1,0 +1,27 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "A exploration off redis implementation",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvir1017/Redis-Node.js.git"
+  },
+  "keywords": [
+    "redis",
+    "node.js"
+  ],
+  "author": "https://github.com/tanvir1017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvir1017/Redis-Node.js/issues"
+  },
+  "homepage": "https://github.com/tanvir1017/Redis-Node.js#readme",
+  "dependencies": {
+    "ioredis": "^5.4.1"
+  }
+}
